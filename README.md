@@ -8,7 +8,7 @@ sends price-drop alerts, and includes a **PC Builder** with compatibility checks
 
 ![CladrisPC home page: PC parts price comparison in India](screenshots/pc-parts-price-comparison-india-home.png)
 
-> This repository is a public showcase. The source code is private.
+> This repository is a public showcase of the website. The source code is private.
 
 ## Why I built it
 
